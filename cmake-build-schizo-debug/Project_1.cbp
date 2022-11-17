@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project_1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project_1">
+				<Option output="/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Project_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/users/guest/a/agleaso4/CLionRemote/Project1/./Lab1PassOffCases/1-70,"/>
+					<Add directory="/users/guest/a/agleaso4/CLionRemote/Project1/Lab1PassOffCases/1-90,"/>
+					<Add directory="/users/guest/a/agleaso4/CLionRemote/Project1/Lab1PassOffCases/1-100,"/>
+					<Add directory="/users/guest/a/agleaso4/CLionRemote/Project1/Lab2PassOffCases/2-80,"/>
+					<Add directory="/users/guest/a/agleaso4/CLionRemote/Project1/Lab2PassOffCases/2-100"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 Project_1"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project_1/fast">
+				<Option output="/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Project_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/users/guest/a/agleaso4/CLionRemote/Project1/./Lab1PassOffCases/1-70,"/>
+					<Add directory="/users/guest/a/agleaso4/CLionRemote/Project1/Lab1PassOffCases/1-90,"/>
+					<Add directory="/users/guest/a/agleaso4/CLionRemote/Project1/Lab1PassOffCases/1-100,"/>
+					<Add directory="/users/guest/a/agleaso4/CLionRemote/Project1/Lab2PassOffCases/2-80,"/>
+					<Add directory="/users/guest/a/agleaso4/CLionRemote/Project1/Lab2PassOffCases/2-100"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 Project_1/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/a/agleaso4/CLionRemote/Project1/cmake-build-schizo-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/ADD.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/Automaton.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/COMMAS.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/COMMENT.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/ColonAutomaton.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/ColonDashAutomaton.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/Database.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/Datalog.cpp">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/Datalog.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/FACTS.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/Header.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/ID.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/Interpreter.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/LEFT_PAREN.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/Lexer.cpp">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/Lexer.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/MULTIPLY.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/PERIOD.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/QUERIES.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/Q_MARK.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/RIGHT_PAREN.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/RULES.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/Relation.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/SCHEMES.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/STRING.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/Token.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/Tuple.h">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/main.cpp">
+			<Option target="Project_1"/>
+		</Unit>
+		<Unit filename="/users/guest/a/agleaso4/CLionRemote/Project1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
